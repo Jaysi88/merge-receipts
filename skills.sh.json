@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Verify",
+      "description": "No merge without a test, build, and preview receipt from this change.",
+      "skills": ["merge-receipts"]
+    }
+  ]
+}
